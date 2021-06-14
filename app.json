@@ -44,7 +44,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg5",
+      "value": "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -107,7 +107,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://replit.com/@nikhilcroaker/music-robo#main.py ",
+      "description": "Get this value by running https://replit.com/@mrnitric/SANKIAUTOBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
