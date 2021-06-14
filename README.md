@@ -9,7 +9,7 @@
 # 𝐓𝐇𝐄 𝐒𝐀𝐍𝐊𝐈 𝐀𝐔𝐓𝐎𝐁𝐎𝐓
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-Sanki Autobot made by @Mr_Nitric. Supported by respective hellbot owner @Mr_Nitric. Join for update related info channel and group :- https://t.me/SankiAutobot THANKS FOR VISITING OUR REPO💖
+Sanki Autobot made by @Mr_Nitric. Supported by respective Sanki Autobot owner @Mr_Nitric. Join for update related info channel and group :- https://t.me/SankiAutobot THANKS FOR VISITING OUR REPO💖
 [![SANKIAUTOBOT LOGO](https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg)](https://t.me/SankiAutobot)
 
 
